@@ -2,7 +2,7 @@
 
 ### Description
 This is the implementation code for MuscleController. a user-friendly controller based on EMG with Deep Learning Methods
-co_author: @rotom507 @GitZinc
+co_author: @rotom407 @GitZinc
 
 ![Image text](https://raw.githubusercontent.com/A-suozhang/MuscleController/master/Board.jpg)
 
